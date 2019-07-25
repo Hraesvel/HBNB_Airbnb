@@ -1,8 +1,8 @@
-# Holberton School Airbnb Clone
+# The Holberton School Airbnb Clone project
 
-This Repo is a collection of all the iterations of the Airbnb clone project we had to create over 6+ months. Version 4 is the actual last project before the deployment step.
+This Repo is a collection of all the iterations of the Airbnb clone project we had to create over six months. Version 4 is the actual last coding project before the deployment step.
 
-# Projects :building_construction:
+# Projects :building_constructio
 
 ## [v1: Models, File system and Static pages](https://github.com/Ostoyae/AirBnB_clone) 
 
