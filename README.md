@@ -4,13 +4,13 @@ This Repo is a collection of all the iterations of the Airbnb clone project we h
 
 # Projects
 
-## [Deployment](./deployment)
+## [Deployment](https://github.com/Ostoyae/HBNB_Airbnb)
 
-## [v4](./v4)
+## [v4](https://github.com/Ostoyae/AirBnB_clone_v4)
 
 
-## [v3](./v3)
+## [v3](https://github.com/Ostoyae/AirBnB_clone_v3)
 
-## [v2](./v2)
+## [v2](https://github.com/Ostoyae/AirBnB_clone_v2)
 
-## [v1](./v1)
+## [v1](https://github.com/Ostoyae/AirBnB_clone)
