@@ -30,3 +30,23 @@ JS/JQuery.
 ## [Deployment](https://github.com/Ostoyae/HBNB_Airbnb) :airplane: 
 The concluding portion of the Airbnb project, deploy the web application to servers. I took this as an opportunity to learn to use Puppet Bolt to automate the deployment process.
 
+
+## Technology Stack
+
+### Languages
+ - Python :snake:
+ - Javascript
+ - HTML 
+ - CSS
+ 
+### Frameworks & Libs
+- Flask 
+- SQLAlchemy 
+- JQuery
+
+### Tool
+- Docker :whale:
+- Nginx
+- Haproxy 
+- Puppet Bolt
+- Ubuntu
