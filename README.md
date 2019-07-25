@@ -5,9 +5,9 @@ This Repo is a collection of all the iterations of the Airbnb clone project we h
 # Projects
 
 ## [Deployment](https://github.com/Ostoyae/HBNB_Airbnb)
+Final portion of the Airbnb project, deploy the web application to servers. I took this as an oppertunity to learn to use Puppet Bolt to automate the deployment process.
 
 ## [v4](https://github.com/Ostoyae/AirBnB_clone_v4)
-
 
 ## [v3](https://github.com/Ostoyae/AirBnB_clone_v3)
 
