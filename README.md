@@ -2,7 +2,7 @@
 
 This Repo is a collection of all the iterations of the Airbnb clone project we had to create over six months. Version 4 is the actual last coding project before the deployment step.
 
-# Projects :building_constructio
+# Projects :building_construction:
 
 ## [v1: Models, File system and Static pages](https://github.com/Ostoyae/AirBnB_clone) 
 
