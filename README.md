@@ -1,6 +1,20 @@
 # The Holberton School Airbnb Clone project
+This Repo is a collection of all the iterations of the Airbnb clone project we had to create over six months with each step having a paired programming aspect to it and some test-driven development.
 
-This Repo is a collection of all the iterations of the Airbnb clone project we had to create over six months. Version 4 is the actual last coding project before the deployment step.
+As a whole, this project was designed to teach us how a web application is pieced together. Furthermore, help develop soft skill such are a collaboration with another individual. Some other aspects are covered list below
+
+- Building models
+- Building a console
+- working with Json
+- Working with MySQL via ORM (using SQLAlchemy)
+- Using Flash to service frontent
+- Build an RESTful API
+- Building a frontend with HTML and CSS
+- Use a template engine (JinJa)
+- Use JS/Jquery to create a dynamic frontend
+
+
+Version 4 is the last coding project before the deployment step.
 
 # Projects :building_construction:
 
