@@ -1,7 +1,7 @@
 # The Holberton School Airbnb Clone project
 This Repo is a collection of all the iterations of the Airbnb clone project we had to create over six months with each step having a paired programming aspect to it and some test-driven development.
 
-As a whole, this project was designed to teach us how a web application is pieced together. Furthermore, help develop soft skill such are a collaboration with another individual. Some other aspects are covered list below
+As a whole, this project was designed to teach us how a web application is pieced together. Furthermore, help develop soft skill such are a collaboration through peer programming and shared Github repository as well as organization and documentation. Some other aspects are covered list below.
 
 - Building models
 - Building a console
