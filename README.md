@@ -7,7 +7,7 @@ As a whole, this project was designed to teach us how a web application is piece
 - Building a console
 - working with Json
 - Working with MySQL via ORM (using SQLAlchemy)
-- Using Flash to service frontent
+- Build Flask application to service a frontent
 - Build an RESTful API
 - Building a frontend with HTML and CSS
 - Use a template engine (JinJa)
