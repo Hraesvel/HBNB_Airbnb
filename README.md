@@ -44,6 +44,11 @@ JS/JQuery.
 ## [Deployment](https://gitlab.com/Hraesvel/HBNB_Airbnb) :airplane: 
 The concluding portion of the Airbnb project, deploy the web application to servers. I took this as an opportunity to learn to use Puppet Bolt to automate the deployment process.
 
+## Change log:
+
+- commit: 22e9279ee199d54229eb625747846bfb34f0ceac
+  - updated submodules to use gitlab version
+
 
 ## Technology Stack
 
