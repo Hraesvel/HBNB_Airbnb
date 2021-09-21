@@ -46,7 +46,7 @@ The concluding portion of the Airbnb project, deploy the web application to serv
 
 ## Change log:
 
-- commit: 22e9279ee199d54229eb625747846bfb34f0ceac
+- Commit [22e9279](https://github.com/Hraesvel/HBNB_Airbnb/commit/22e9279ee199d54229eb625747846bfb34f0ceac)
   - updated submodules to use gitlab version
 
 
