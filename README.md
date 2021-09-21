@@ -1,4 +1,7 @@
 # The Holberton School Airbnb Clone project
+
+Update: Project repos have been moved to gitlab in a bid to clean up my github account.
+
 This Repo is a collection of all the iterations of the Airbnb clone project we had to create over six months with each step having a paired programming aspect to it and some test-driven development.
 
 As a whole, this project was designed to teach us how a web application is pieced together. Furthermore, help develop soft skill such are a collaboration through peer programming and shared Github repository as well as organization and documentation. Some other aspects are covered list below.
@@ -41,7 +44,7 @@ This step we move away from server-side rendering via `jinja` and use
 the REST API created in the last step to make the frontend dynamic with
 JS/JQuery.
 
-## [Deployment](https://gitlab.com/Hraesvel/HBNB_Airbnb) :airplane: 
+## [Deployment](https://gitlab.com/Hraesvel/AirBnB_Delpoy) :airplane: 
 The concluding portion of the Airbnb project, deploy the web application to servers. I took this as an opportunity to learn to use Puppet Bolt to automate the deployment process.
 
 ## Change log:
