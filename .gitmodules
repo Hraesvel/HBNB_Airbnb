@@ -2,11 +2,6 @@
 	path = v1
 	url = https://gitlab.com/Hraesvel/AirBnB_clone.git
 	branch = master
-[submodule "v2"]
-	path = v2
-	url = https://gitlab.com/Hraesvel/AirBnB_clone_v2.git
-	branch = master
-
 [submodule "v3"]
 	path = v3
 	url = https://gitlab.com/Hraesvel/AirBnB_clone_v3.git
